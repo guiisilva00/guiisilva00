@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Olá, eu sou o Guilherme Silva! 👋
+  # Olá, eu sou Guilherme Silva! 👋
   
   ### Desenvolvedor Full Stack
   
@@ -10,10 +10,10 @@
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <a href="https://linkedin.com/in/guilhermesilvaa01" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:seuemail@exemplo.com">
+    <a href="mailto:guilherme.p.silva51@aluno.senai.br">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
